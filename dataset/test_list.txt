@@ -1,0 +1,12 @@
+dataset\with_film\data_film_lighted\2025-12-25-21-03-06.jpg dataset\with_film\data_templates_gc\template_2025-12-25-21-03-06.jpg.png dataset\with_film\annotations_gc\annotations_2025-12-25-21-03-06.jpg.txt
+dataset\with_film\data_film_lighted\2025-12-25-21-03-18.jpg dataset\with_film\data_templates_gc\template_2025-12-25-21-03-18.jpg.png dataset\with_film\annotations_gc\annotations_2025-12-25-21-03-18.jpg.txt
+dataset\with_film\data_film_lighted\2025-12-25-21-20-17.jpg dataset\with_film\data_templates_gc\template_2025-12-25-21-20-17.jpg.png dataset\with_film\annotations_gc\annotations_2025-12-25-21-20-17.jpg.txt
+dataset\with_film\data_film_lighted\2025-12-29-14-48-36.jpg dataset\with_film\data_templates_gc\template_2025-12-29-14-48-36.jpg.png dataset\with_film\annotations_gc\annotations_2025-12-29-14-48-36.jpg.txt
+dataset\with_film\data_film_lighted\2025-12-29-15-12-26.jpg dataset\with_film\data_templates_gc\template_2025-12-29-15-12-26.jpg.png dataset\with_film\annotations_gc\annotations_2025-12-29-15-12-26.jpg.txt
+dataset\with_film\data_film_lighted\2025-12-29-16-15-10.jpg dataset\with_film\data_templates_gc\template_2025-12-29-16-15-10.jpg.png dataset\with_film\annotations_gc\annotations_2025-12-29-16-15-10.jpg.txt
+dataset\with_film\data_film_lighted\2025-12-29-16-53-56.jpg dataset\with_film\data_templates_gc\template_2025-12-29-16-53-56.jpg.png dataset\with_film\annotations_gc\annotations_2025-12-29-16-53-56.jpg.txt
+dataset\with_film\data_film_lighted\2025-12-29-16-54-00.jpg dataset\with_film\data_templates_gc\template_2025-12-29-16-54-00.jpg.png dataset\with_film\annotations_gc\annotations_2025-12-29-16-54-00.jpg.txt
+dataset\with_film\data_film_lighted\2025-12-29-16-54-08.jpg dataset\with_film\data_templates_gc\template_2025-12-29-16-54-08.jpg.png dataset\with_film\annotations_gc\annotations_2025-12-29-16-54-08.jpg.txt
+dataset\with_film\data_film_lighted\2026-01-06-16-17-33.jpg dataset\with_film\data_templates_gc\template_2026-01-06-16-17-33.jpg.png dataset\with_film\annotations_gc\annotations_2026-01-06-16-17-33.jpg.txt
+dataset\with_film\data_film_lighted\2026-01-06-18-24-43.jpg dataset\with_film\data_templates_gc\template_2026-01-06-18-24-43.jpg.png dataset\with_film\annotations_gc\annotations_2026-01-06-18-24-43.jpg.txt
+dataset\with_film\data_film_lighted\2026-01-07-18-54-40.jpg dataset\with_film\data_templates_gc\template_2026-01-07-18-54-40.jpg.png dataset\with_film\annotations_gc\annotations_2026-01-07-18-54-40.jpg.txt
