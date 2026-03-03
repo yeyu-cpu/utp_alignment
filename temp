@@ -1,0 +1,37 @@
+    parser.add_argument(
+        "--list", required=False,
+        default="dataset/test_list.txt",
+        help="测试列表 txt，每行：目标图路径 模板图路径 gt文件路径"
+    )
+    parser.add_argument(
+        "--out_dir", required=False,
+        default="results/test_results",
+        help="保存测试可视化结果、框 txt 和评估 txt 的目录"
+    )
+    parser.add_argument(
+        "--param_json", required=False,
+        default="results/best_params.json",
+        help="测试时使用的参数 JSON 文件路径"
+    )
+
+
+
+    parser.add_argument(
+        "--list", required=False,
+        default="dataset/train_list.txt",
+        help="训练列表 txt，每行：目标图路径 模板图路径 gt文件路径"
+    )
+    parser.add_argument(
+        "--out_dir", required=False,
+        default="results/train_results",
+        help="保存每张图可视化结果和框 txt 的目录"
+    )
+    parser.add_argument(
+        "--json_out", required=False,
+        default="results/best_params.json",
+        help="保存平均最优值（accuracy）的 json 文件路径"
+    )
+    parser.add_argument(
+        "--num_iters", type=int, default=300,
+        help="每张图的训练迭代次数（默认 300）"
+    )
