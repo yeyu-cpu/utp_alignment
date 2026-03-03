@@ -6,7 +6,7 @@ pip install -r requirements.txt
 ```
 Download datasets including images of chips and detectors from [dataset](https://pan.baidu.com/s/1sjh231tbPVtWMzXxWxX85Q?pwd=wv17),
 unzip the package and put dataset folders into "./".<br>
-Create "result" folder in "./"
+Create "results" folder in "./"
 ## Train
 To train the model, run:
 ```bash  
